@@ -67,3 +67,6 @@ designer. Although there are still some flaws ( for example: the reading image p
 image with a white background ), I truly learnt a lot not only by reading the instruction files but 
 also by debugging my own code. Thanks for giving us such a chance to do the lab and I’ll try to 
 perfect it later.
+
+## Result   
+![img]https://github.com/winsa24/-QT-DrawingTool/blob/main/result.gif   
