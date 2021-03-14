@@ -69,4 +69,4 @@ also by debugging my own code. Thanks for giving us such a chance to do the lab 
 perfect it later.
 
 ## Result   
-![img]https://github.com/winsa24/-QT-DrawingTool/blob/main/result.gif   
+![img](https://github.com/winsa24/-QT-DrawingTool/blob/main/result.gif)   
